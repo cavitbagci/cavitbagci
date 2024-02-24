@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cavit</h1>
-- 🔭 I’m currently working on [ToDo Project](https://github.com/cavitbagci/ToDo)
+-I’m currently working on [ToDo Project](https://github.com/cavitbagci/ToDo)
 
-- 🌱 I’m currently learning and improve myself **C#**
+-I’m currently learning and improve myself **C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
