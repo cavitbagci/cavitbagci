@@ -54,6 +54,6 @@ Computer Engineering student focused on building robust backend systems and scal
 
 <div align="center">
   
-<img src="https://profile-counter.glitch.me/cavitbagci/count.svg" alt="Visitor Count" />
+![Visitor Count](https://profile-counter.glitch.me/{cavitbagci}/count.svg)
   
 </div>
