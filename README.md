@@ -37,7 +37,7 @@ Computer Engineering student focused on building robust backend systems and scal
   
 <img src="https://github-readme-stats.vercel.app/api?username=cavitbagci&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cavitbagci&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cavitbagci)](https://git.io/streak-stats)
 
 </div>
 
