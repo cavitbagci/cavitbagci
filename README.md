@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Junior+Backend+Developer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer;Building+Scalable+Solutions)
   
 </div>
 
@@ -35,9 +35,9 @@ Computer Engineering student focused on building robust backend systems and scal
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cavitbagci&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=cavitbagci&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cavitbagci&theme=dark&hide_border=true&background=0d1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cavitbagci&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
@@ -45,7 +45,7 @@ Computer Engineering student focused on building robust backend systems and scal
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/KULLANICI_ADINIZ](https://www.linkedin.com/in/bcavitbagci/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADINIZ)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cavit.bagci04@gmail.com)
 
 </div>
@@ -54,6 +54,6 @@ Computer Engineering student focused on building robust backend systems and scal
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/cavitbagci/count.svg)
+<img src="https://profile-counter.glitch.me/cavitbagci/count.svg" alt="Visitor Count" />
   
 </div>
