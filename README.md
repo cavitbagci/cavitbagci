@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Backend+Developer;Building+Scalable+Solutions)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Junior+Backend+Developer)
   
 </div>
 
@@ -45,7 +45,7 @@ Computer Engineering student focused on building robust backend systems and scal
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI_ADINIZ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/KULLANICI_ADINIZ](https://www.linkedin.com/in/bcavitbagci/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cavit.bagci04@gmail.com)
 
 </div>
