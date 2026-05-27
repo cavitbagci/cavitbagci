@@ -54,6 +54,6 @@ Computer Engineering student focused on building robust backend systems and scal
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/{cavitbagci}/count.svg)
+![](https://komarev.com/ghpvc/?username=cavitbagci)
   
 </div>
